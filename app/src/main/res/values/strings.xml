@@ -3,6 +3,8 @@
     <string name="BD_text">Bangladesh</string>
     <string name="Pak_text">Pakistan</string>
     <string name="India_text">India</string>
+    <string name="title_text">Warning</string>
+    <string name="MSG_text">Do you want to exit?</string>
 
 
     <string name="bd_des">
